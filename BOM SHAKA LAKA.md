@@ -94,7 +94,7 @@ int main() {
 ```
 
 ## Результат работы программы
-![REZ RUS](./IMG/REZpng)
+![REZ RUS](./IMG/REZ.png)
 
 ## Вывод
 
